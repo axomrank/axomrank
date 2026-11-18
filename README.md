@@ -3,12 +3,13 @@
 **Free, bilingual (English and Assamese), source-checked preparation for Assam government exams:** ADRE Grade III and IV, APSC CCE, Assam TET and Assam Police.
 
 ▶ **[Open the app](https://axomrank.pages.dev/?utm_source=github&utm_medium=profile)** · works offline · no login needed to start
+🏠 **[Home page](https://axomrank.github.io/)**: everything AxomRank offers, in one place
 📰 **[Blog](https://axomrank.github.io/axomrank-blog/?utm_source=github&utm_medium=profile)**: exam analysis built from real papers
 
 ## Learn
 | Project | What it is |
 |---|---|
-| [AxomRank app](https://github.com/axomrank/axomrank.github.io) | Assam history (93 lessons), Indian polity, Indian history, geography, maths and reasoning |
+| [AxomRank app](https://axomrank.pages.dev/?utm_source=github&utm_medium=profile) | Assam history (93 lessons), Indian polity, Indian history, geography, maths and reasoning |
 | [Ahom Kings lessons](https://github.com/axomrank/ahom-kingdom-history/tree/main/lessons) | All 41 Ahom reigns, one short bilingual lesson each |
 | [Floor Test simulator](https://github.com/axomrank/floor-test-simulator) | Learn parliamentary majorities by playing |
 
