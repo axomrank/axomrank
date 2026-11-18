@@ -9,7 +9,7 @@
 | Project | What it is |
 |---|---|
 | [AxomRank app](https://github.com/axomrank/axomrank.github.io) | Assam history (93 lessons), Indian polity, Indian history, geography, maths and reasoning |
-| [Ahom Kings lessons](https://github.com/axomrank/ahom-kings-lessons) | All 41 Ahom reigns, one short bilingual lesson each |
+| [Ahom Kings lessons](https://github.com/axomrank/ahom-kingdom-history/tree/main/lessons) | All 41 Ahom reigns, one short bilingual lesson each |
 | [Floor Test simulator](https://github.com/axomrank/floor-test-simulator) | Learn parliamentary majorities by playing |
 
 ## Explore Assam's history
